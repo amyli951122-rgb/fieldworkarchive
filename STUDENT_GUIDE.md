@@ -10,7 +10,7 @@
 6. 進入自己的 repository 後，打開 **Settings → Pages**。
 7. 在 **Build and deployment** 中選擇 **Deploy from a branch**。
 8. Branch 選 `main`，Folder 選 `/(root)`，按 **Save**。
-9. 網站網址會是 `https://你的帳號.github.io/fieldworkarchive/`。
+9. 網站網址會是 `https://amyli951122-rgb.github.io/fieldworkarchive/`。
 
 網站第一次發布或更新可能需要約 10 分鐘。
 
