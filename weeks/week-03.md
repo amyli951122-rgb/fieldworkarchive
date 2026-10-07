@@ -13,7 +13,9 @@ permalink: /weeks/week-03/
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![Uploading 截圖 2026-10-07 晚上11.19.38.png…]()<img width="1118" height="724" alt="截圖 2026-10-07 晚上11 20 24" src="https://github.com/user-attachments/assets/f8cc9dce-f876-4229-a98a-6ffe99c030b4" />
+
+
 
 ## FRICTION｜摩擦
 
