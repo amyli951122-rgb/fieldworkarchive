@@ -13,10 +13,10 @@ permalink: /weeks/week-03/
 
 ## TRACE｜痕跡
 
-<img width="438" height="764" alt="截圖 2026-10-07 晚上11 19 38" src="https://github.com/user-attachments/assets/00408e30-f13b-46af-9bd5-81deee114453" />
+![行走紀錄設備照]({{ '/assets/images/w3-record1.png | relative_url }})
 
 這是記錄下來的第一視角，如上面所述，掛著一塊夾板，由筆紀錄走路的晃動軌跡。
-<img width="1118" height="724" alt="截圖 2026-10-07 晚上11 20 24" src="https://github.com/user-attachments/assets/456839d7-6ef8-4494-9327-bbf4508ba779" />
+![夥伴結果對比]({{ '/assets/images/w3-record2.png | relative_url }})
 
 這是我與夥伴可婕的結果紀錄，一樣都是走路卻呈現出很不一樣的成果。
 
