@@ -14,6 +14,7 @@ permalink: /weeks/week-04/
 工作坊1️⃣
 ![毛細現象]({{ '/assets/images/w4-record1.png | relative_url }})
 
+這是同學帶的小工作坊，
 
 工作坊2️⃣
 ![香水實驗]({{ '/assets/images/w4-record2.png | relative_url }})
