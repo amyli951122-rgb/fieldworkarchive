@@ -14,8 +14,11 @@ permalink: /weeks/week-04/
 工作坊1️⃣
 ![毛細現象]({{ '/assets/images/w4-record1.png | relative_url }})
 
-這是同學帶的小工作坊，
+這是同學帶的小工作坊，是關於毛細現象的小實驗。他們導讀的文本爲Murphy, Michelle的“Alterlife and Decolonial Chemical Relations.”
+文本前段有提到加拿大的金融大樓外觀有許多帶有PBCs的油膜化學物質，若遇下雨則該物質將會被水帶往循環，屆時污染不只是止步於環境
+，而是回歸我們的身體。作者希望我們以因污染生病受害的這群人為例子來思考，進一步地問污染產生的問題。並非把污染當成一個測量傷害的結果，而是把污染理解成一個涉及權力、歷史、生命與責任的關係網絡。
 
+回頭看工作坊，雖然是很簡單有趣的實驗，但以作者的觀點來看，將墨水暈染在紙上這件事造成的表象結果是渲染，但又是誰來決定墨水滴下的數量、位置、材質呢？
 工作坊2️⃣
 ![香水實驗]({{ '/assets/images/w4-record2.png | relative_url }})
 ![香水實驗]({{ '/assets/images/w4-record3.png | relative_url }})
