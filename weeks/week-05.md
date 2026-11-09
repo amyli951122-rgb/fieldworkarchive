@@ -11,9 +11,13 @@ permalink: /weeks/week-05/
 📝做法爲以熱水將蝶豆花色素萃出，加入海藻酸鈉粉製成溶液，再以針筒作為容器於氯化鈣水溶液中擠出穩定線條來編織麻花繩結，最後滴上醋與小蘇打水溶液去觀察其變化。
 
 ## TRACE｜痕跡
-
-![海藻酸鈉工作坊]({{ '/assets/images/w4-record1.png |relative_url }})
-
+📸
+![海藻酸鈉工作坊]({{ '/assets/images/w5-record1.png |relative_url }})
+![海藻酸鈉工作坊]({{ '/assets/images/w5-record2.png |relative_url }})
+![海藻酸鈉工作坊]({{ '/assets/images/w5-record3.png |relative_url }})
+![海藻酸鈉工作坊]({{ '/assets/images/w5-record4.png |relative_url }})
+![海藻酸鈉工作坊]({{ '/assets/images/w5-record5.png |relative_url }})
+這其實並非我第一次製作海藻酸鈉生物面料，但製作過程卻是截然不同。曾經我是以泡泡紙為模具，刷上氯化鈣後倒上海藻酸鈉溶液，而這次是以針筒注射成線狀的方式。染料方面，這次使用蝶豆花天然色素，萃取後與海藻酸鈉水溶液混合，最後注入氯化鈣水溶液，形成線般材質。
 
 ## FRICTION｜摩擦
 
