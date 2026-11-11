@@ -7,7 +7,10 @@ permalink: /weeks/week-10/
 
 # 生態時鐘
 
-> 請保留具體的現場、材料、語句或身體感受。
+1️⃣討論生態時鐘會是如何
+
+2️⃣觀看BOB(Ian Cheng)
+
 
 ## TRACE｜痕跡
 
